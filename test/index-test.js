@@ -1,3 +1,5 @@
+"use strict";
+
 describe('Pure functions', function() {
   describe('getNextEpisodeInPlaylist()', function () {
     it('should return the next episode in a playlist', function() {
